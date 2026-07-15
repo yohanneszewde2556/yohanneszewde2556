@@ -1,42 +1,9 @@
-"# yohanneszewde2556" 
-# 👋 Hey, I'm Yohannes
-
-**3rd-year IT student** at Hawassa University · **AI Startup Center** intern in Addis Ababa
-
-Building full-stack, shipping features, learning in public.
-
----
-
-## 🛠️ Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512CD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Amharic-to-English NMT](https://github.com/yohanneszewde2556/amharic-nmt) | Neural Machine Translation system for Amharic→English — internship project | Python · NLP · Transformers |
-| [Job Application Tracker](https://github.com/yohanneszewde2556/job-tracker) | Web app to track and manage job applications | JavaScript · HTML · CSS |
-| [ChatApp](https://github.com/yohanneszewde2556/chatapp) | Real-time chat desktop application | C# · .NET 8 · Windows Forms |
-| [FoodRush](https://github.com/yohanneszewde2556/foodrush) | Native Android food delivery app | Java · Android SDK · 40+ files |
-| [Portfolio](https://github.com/yohanneszewde2556/portfolio) | Personal site with dark glassmorphism UI | HTML · CSS · JS · Purple (#6c63ff) accents |
-
----# 👋 Hey, I'm Yohannes
 # Hey, I'm Yohannes 👋
 
-**3rd-year IT student** at Hawassa University · **AI Startup Center** intern in Addis Ababa
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&background=0D111700&center=true&vCenter=true&width=500&lines=3rd-year+IT+Student+%7C+AI+Enthusiast+%7C+Building+in+Public" alt="Typing SVG">
 </p>
 
-Building full-stack, shipping features, learning in public.
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com/?user=yohanneszewde2556&theme=tokyonight&border=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideNums=6C63FF" alt="GitHub Streak"></a>
 </p>
@@ -61,7 +28,6 @@ Building full-stack, shipping features, learning in public.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -125,11 +91,6 @@ Building full-stack, shipping features, learning in public.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Amharic-to-English NMT](https://github.com/yohanneszewde2556/amharic-nmt) | Neural Machine Translation system for Amharic→English — internship project | Python · NLP · Transformers |
-| [Job Application Tracker](https://github.com/yohanneszewde2556/job-tracker) | Web app to track and manage job applications | JavaScript · HTML · CSS |
-| [ChatApp](https://github.com/yohanneszewde2556/chatapp) | Real-time chat desktop application | C# · .NET 8 · Windows Forms |
-| [FoodRush](https://github.com/yohanneszewde2556/foodrush) | Native Android food delivery app | Java · Android SDK · 40+ files |
-| [Portfolio](https://github.com/yohanneszewde2556/portfolio) | Personal site with dark glassmorphism UI | HTML · CSS · JS · Purple (#6c63ff) accents |
 | [Amharic-to-English NMT](https://github.com/yohanneszewde2556/amharic-nmt) | Neural Machine Translation system bridging Amharic and English using state-of-the-art Transformers | Python · Transformers · NLP · PyTorch |
 
 ### 💻 Web Development
@@ -150,9 +111,6 @@ Building full-stack, shipping features, learning in public.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohanneszewde2556&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanneszewde2556&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="160" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yohanneszewde2556&theme=tokyonight&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117" alt="Yohannes's GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanneszewde2556&theme=tokyonight&layout=donut&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180" />
@@ -164,19 +122,14 @@ Building full-stack, shipping features, learning in public.
 
 ---
 
-## 🔗 Find Me
 ## 🏆 Achievements & Milestones
 
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(replace with your actual URL)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) *(replace with your actual LinkedIn URL)*
-- 📧 [Email](mailto:your.email@example.com) *(replace with your email)*
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yohanneszewde2556&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies">
 </p>
 
 ---
 
-*Languages: English · አማርኛ (Amharic)*
 ## 💡 Random Dev Quote
 
 > *"The best way to predict the future is to create it."*
@@ -187,10 +140,10 @@ Building full-stack, shipping features, learning in public.
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-ten-sepia-32.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://github.com/yohanneszewde2556"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/yohannes-zewde"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yohannes_zewde"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:yohannes.zewde@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/yohannes-zewde-46939a369/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yohanneszewde2556@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -210,23 +163,5 @@ Building full-stack, shipping features, learning in public.
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/yohanneszewde2556/yohanneszewde2556/output/github-contribution-grid-snake.svg)
+
 </div>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yohanneszewde2556&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yohanneszewde2556&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
----
-
-## 🔗 Find Me
-
-- 🌐 [Portfolio](https://your-portfolio-link.com) *(replace with your actual URL)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username) *(replace with your actual LinkedIn URL)*
-- 📧 [Email](mailto:your.email@example.com) *(replace with your email)*
-
----
-
-*Languages: English · አማርኛ (Amharic)*
